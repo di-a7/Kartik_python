@@ -15,3 +15,11 @@ git add .             :[all files inside this folder are added]
 git commit -m "meaning full messages"
 
 # git log   :show all the commits 
+
+# git status
+
+# git branch  : list out all the existing branches
+
+# git branch barnch_name  : to create new branch
+
+# git checkout branch_name    : to switch branch
