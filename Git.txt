@@ -31,3 +31,6 @@ git commit -m "meaning full messages"
 # git merge branch_name    : to merge the branches
 
 # git remote add origin <git_repo_url>    : connect remote repo to local repo
+
+# git push -u origin main  : push branch to github [for first push]
+# git push
