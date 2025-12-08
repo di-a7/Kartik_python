@@ -4,6 +4,8 @@
 - provide seperate workspace for multiple user
 - logs are created
 
+# Github: application that implements GIT
+
 # git initialization - empty git repository is crated
 git init 
 
@@ -18,6 +20,8 @@ git commit -m "meaning full messages"
 
 # git status
 
+# git branch -M main    rename the master branch to main
+
 # git branch  : list out all the existing branches
 
 # git branch barnch_name  : to create new branch
@@ -25,3 +29,5 @@ git commit -m "meaning full messages"
 # git checkout branch_name    : to switch branch
 
 # git merge branch_name    : to merge the branches
+
+# git remote add origin <git_repo_url>    : connect remote repo to local repo
