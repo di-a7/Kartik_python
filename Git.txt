@@ -23,3 +23,5 @@ git commit -m "meaning full messages"
 # git branch barnch_name  : to create new branch
 
 # git checkout branch_name    : to switch branch
+
+# git merge branch_name    : to merge the branches
