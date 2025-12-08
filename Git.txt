@@ -1,0 +1,5 @@
+# GIT : Version Control System
+
+- track the changes in the files
+- provide seperate workspace for multiple user
+- logs are created
