@@ -36,3 +36,15 @@ git commit -m "meaning full messages"
 # git push
 
 # git pull     : git file/updated from remote to local
+
+# git clone git_repo_url   : get git repo to your local device
+
+
+# todo:
+1. https://github.com/di-a7/Kartik_python.git  : clone this repo to your local device
+2. create a branch with your name 
+3. switch to your branch
+4. create a new file using your name. it can be py(your programs), txt(introduction)
+5. add, commit , and push your branch to the repo
+6. create a Pull Request
+
